@@ -6,6 +6,7 @@
 
 
 [![Oluwaseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunboy1)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seunboy1&theme=dracula&hide_border=true&sideNums=DDD832&fire=DDB9AA)](https://git.io/streak-stats)
 
 <!---
