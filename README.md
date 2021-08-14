@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science and MLOps open source tools.
 - 📫 How to reach me via [Email](johnadeyo@hotmail.com), [Twitter](https://twitter.com/Deh_yor), [Linkedin](https://www.linkedin.com/in/oluwaseun-adeyo-3a047612b/)
 
-[![Oluwaseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunboy1&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&line_height=33)](https://github.com/seunboy1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunboy1&layout=default&theme=synthwave)](https://github.com/seunboy1/github-readme-stats)
+[![Oluwaseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunboy1&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&line_height=33)](https://github.com/seunboy1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunboy1&layout=default&theme=synthwave&langs_count=8)](https://github.com/seunboy1/github-readme-stats)
 
 <!-- I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing, Biometrics and Pattern Recognition. -->
 
