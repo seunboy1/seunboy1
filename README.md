@@ -5,7 +5,7 @@
 - 📫 How to reach me via [Email](johnadeyo@hotmail.com), [Twitter](https://twitter.com/Deh_yor), [Linkedin](https://www.linkedin.com/in/oluwaseun-adeyo-3a047612b/)
 
 
-[![Oluwaseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunboy1)](https://github.com/anuraghazra/github-readme-stats)
+[![Oluwaseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunboy1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seunboy1&theme=dracula&hide_border=true&sideNums=DDD832&fire=DDB9AA)](https://git.io/streak-stats)
 
