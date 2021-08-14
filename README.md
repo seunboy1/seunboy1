@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science and MLOps open source tools.
 - 📫 How to reach me via [Email](johnadeyo@hotmail.com), [Twitter](https://twitter.com/Deh_yor), [Linkedin](https://www.linkedin.com/in/oluwaseun-adeyo-3a047612b/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seunboy1&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seunboy1&repo=github-readme-stats)](https://github.com/seunboy1/github-readme-stats)
 
 
 [![Oluwaseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunboy1&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
