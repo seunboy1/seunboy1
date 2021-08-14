@@ -7,7 +7,7 @@
 [![Oluwaseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunboy1&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&line_height=33)](https://github.com/seunboy1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunboy1&layout=default&theme=synthwave)](https://github.com/seunboy1/github-readme-stats)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seunboy1&theme=dracula&hide_border=true&sideNums=DDD832&fire=DDB9AA)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seunboy1&theme=dracula&hide_border=true&sideNums=DDD832&fire=DDB9AA)](https://git.io/streak-stats) -->
 
 
 <!---
