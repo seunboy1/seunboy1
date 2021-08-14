@@ -8,6 +8,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seunboy1&theme=dracula&hide_border=true&sideNums=DDD832&fire=DDB9AA)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunboy1&layout=compact)](https://github.com/seunboy1/github-readme-stats)
+
+
 <!---
 seunboy1/seunboy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
