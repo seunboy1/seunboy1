@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seunboy1&repo=github-readme-stats)](https://github.com/seunboy1/github-readme-stats)
 
 
-[![Oluwaseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunboy1&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Oluwaseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunboy1&count_private=true&show_icons=true&theme=synthwave)](https://github.com/seunboy1/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seunboy1&theme=dracula&hide_border=true&sideNums=DDD832&fire=DDB9AA)](https://git.io/streak-stats)
 
