@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oluwaseun Adeyo
+- 👋 Hi there, I’m Oluwaseun Adeyo
 - 👀 I’m interested in Data Science, Machine Learning, Software Engineering
 - 🌱 I’m currently learning MLOps, Data Engineering
 - 💞️ I’m looking to collaborate on Data Science and MLOps open source tools.
