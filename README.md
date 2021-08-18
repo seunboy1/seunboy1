@@ -4,14 +4,30 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/oluwaseun-adeyo-3a047612b/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)]()
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=)]()
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="johnadeyo@hotmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hotmail.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oluwaseun-adeyo-3a047612b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/Deh_yor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+</p>
 
 - 👋 Hi there, I’m Oluwaseun Adeyo
 - 👀 I’m interested in Data Science, Machine Learning, Software Engineering
 - 🌱 I’m currently learning MLOps, Data Engineering
 - 💞️ I’m looking to collaborate on Data Science and MLOps open source tools.
-- 📫 How to reach me via [Email](johnadeyo@hotmail.com), [Twitter](https://twitter.com/Deh_yor), [Linkedin](https://www.linkedin.com/in/oluwaseun-adeyo-3a047612b/)
+<!-- - 📫 How to reach me via [Email](), [Twitter](https://twitter.com/Deh_yor), [Linkedin]() -->
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="johnadeyo@hotmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hotmail.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oluwaseun-adeyo-3a047612b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/Deh_yor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+</p>
 
 
 
