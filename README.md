@@ -3,7 +3,7 @@
 </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Linkedin: anmol](https://img.shields.io/badge/-oluwaseun adeyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwaseun-adeyo-3a047612b/)](https://www.linkedin.com/in/oluwaseun-adeyo-3a047612b/)
+[![Linkedin: anmol](https://img.shields.io/badge/-oluwaseun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwaseun-adeyo-3a047612b/)](https://www.linkedin.com/in/oluwaseun-adeyo-3a047612b/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)]()
 
 - 👋 Hi there, I’m Oluwaseun Adeyo
