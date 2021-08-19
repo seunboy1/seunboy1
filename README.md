@@ -1,6 +1,13 @@
 <h1 align="center">
   <img src="header.png" alt="Oluwaseun Adeyo" />
 </h1>
+
+<h2 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=F7AB7B&size=27&center=true&vCenter=true&width=416&lines=Full+Stack+Machine+Learning+Engineer;Research+Scientist;Software+Engineer;MLOps+%26+Data+Engineer+Enthusiast;Welcome+to+my+world!++%F0%9F%A4%97)](https://git.io/typing-svg)
+  
+</h2>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/oluwaseun-adeyo-3a047612b/)
@@ -14,11 +21,13 @@
 <a href="https://twitter.com/Deh_yor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 </p> -->
 
-- 👋 Hi there, I’m Oluwaseun Adeyo
-- 👀 I’m interested in Data Science, Machine Learning, Software Engineering
+- 👀 I'm passionate about Software Engineering, Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I am currently working in the fields of Computer Vision, Image Processing, Biometrics and Pattern Recognition.
+
 - 🌱 I’m currently learning MLOps, Data Engineering
+
 - 💞️ I’m looking to collaborate on Data Science and MLOps open source tools.
-<!-- - 📫 How to reach me via [Email](), [Twitter](https://twitter.com/Deh_yor), [Linkedin]() -->
+
+- 📫 How to reach me via [Email](), [Twitter](https://twitter.com/Deh_yor), [Linkedin]()
 
 <!-- 
 <h3 align="left">Connect with me:</h3>
@@ -34,9 +43,12 @@
 
 
 
+<h2> </h2>
+<h2 align="center">
+  
 [![Oluwaseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunboy1&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&line_height=33)](https://github.com/seunboy1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunboy1&layout=default&theme=synthwave&langs_count=8)](https://github.com/seunboy1/github-readme-stats)
-
-<!-- I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing, Biometrics and Pattern Recognition. -->
+  
+</h2>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seunboy1&theme=dracula&hide_border=true&sideNums=DDD832&fire=DDB9AA)](https://git.io/streak-stats) -->
 
