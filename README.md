@@ -58,9 +58,9 @@ If things goes well, this section should automatically be replaced by a list of 
 <a href="https://medium.com/@Deh_yor" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-<a href="https://johnadeyo@hotmail.com" target="_blank">
+<!-- <a href="https://johnadeyo@hotmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white alt=hotmail style="margin-bottom: 5px;" />
-</a> 
+</a>  -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>  
 </div> 
