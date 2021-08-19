@@ -12,7 +12,7 @@
 
   
 
-- 👀 I'm passionate about Software Engineering, Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I am currently working in the fields of Computer Vision, Image Processing, Biometrics and Pattern Recognition.
+- 👀 I'm passionate about Software Engineering, Artificial Intelligence, Deep Learning, MLOps and Data Engineering. I am currently working in the field of Computer Vision, Image Processing, Biometrics and Pattern Recognition.
 
 - 🌱 I’m currently learning MLOps, Data Engineering
 
