@@ -12,4 +12,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: seunboy1/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@username"
+          feed_list: "https://www.medium.com/@Deh_yor"
