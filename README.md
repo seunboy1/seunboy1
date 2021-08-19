@@ -22,7 +22,7 @@
 
 ### :closed_book: Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Ensure Reproducibility Easily in Data Science Through Version Control](https://medium.com/geekculture/how-to-ensure-reproducibility-easily-in-data-science-through-version-control-1777ae3b15a?source=rss-5e11b6e32757------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
