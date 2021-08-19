@@ -4,7 +4,7 @@
 
 <h2 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=F7AB7B&size=27&center=true&vCenter=true&width=416&lines=Full+Stack+Machine+Learning+Engineer;Research+Scientist;Software+Engineer;MLOps+%26+Data+Engineer+Enthusiast;Welcome+to+my+world!++%F0%9F%A4%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=F7AB7B&size=30&center=true&vCenter=true&width=475&height=43&lines=Full+Stack+Machine+Learning+Engineer;Research+Scientist;Software+Engineer;MLOps+%26+Data+Engineer+Enthusiast;Welcome+to+my+profile!++%F0%9F%A4%97)](https://git.io/typing-svg)
   
 </h2>
 
@@ -27,6 +27,9 @@
 
 - 💞️ I’m looking to collaborate on Data Science and MLOps open source tools.
 
+
+- 💞️ I’m looking to collaborate on Data Science and MLOps open source tools.
+
 - 📫 How to reach me via [Email](), [Twitter](https://twitter.com/Deh_yor), [Linkedin]()
 
 <!-- 
@@ -43,7 +46,7 @@
 
 
 
-<h2> </h2>
+-------------
 <h2 align="center">
   
 [![Oluwaseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunboy1&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&line_height=33)](https://github.com/seunboy1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunboy1&layout=default&theme=synthwave&langs_count=8)](https://github.com/seunboy1/github-readme-stats)
