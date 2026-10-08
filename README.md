@@ -20,6 +20,7 @@
 
 ### :closed_book: Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Jev: The System One Model Changing How We Build Agentic AI](https://medium.com/@Deh_yor/jev-the-system-one-model-changing-how-we-build-agentic-ai-1acdff37b920)
 - [How to Ensure Reproducibility Easily in Data Science Through Version Control](https://medium.com/geekculture/how-to-ensure-reproducibility-easily-in-data-science-through-version-control-1777ae3b15a?source=rss-5e11b6e32757------2)
 <!-- BLOG-POST-LIST:END -->  
 
