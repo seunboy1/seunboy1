@@ -10,7 +10,6 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-
 - 👀 I'm passionate about Software Engineering, Machine and Deep Learning, MLOps and Data Engineering. I am currently working in the field of Computer Vision, Image Processing, Biometrics, Pattern Recognition and Inference engineering.
 
 - 💞️ I’m looking to collaborate on Data Science and MLOps open source tools.
